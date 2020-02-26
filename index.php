@@ -10,27 +10,27 @@
 	<form action="calculate.php" method="post">
 		<input type="text" class='form-control' name="num1" placeholder="Enter number 1"><br>
 		<input type="text" class='form-control' name="num2" placeholder="Enter number 2"><br>
-		<button class='btn btn-primary' type="submit" name="add">Add</button>
-		<button class='btn btn-primary' type="submit" name="sub">Sub</button>
-		<button class='btn btn-primary' type="submit" name="mul">Mul</button>
-		<button class='btn btn-primary' type="submit" name="div">Div</button>	
-		<button class='btn btn-primary' type="submit" name="mod">Mod</button>	
-		<button class='btn btn-primary' type="submit" name="square-root">Sqrt()</button>	
-		<button class='btn btn-primary' type="submit" name="sin">Sin()</button>	
-		<button class='btn btn-primary' type="submit" name="sinh">Sinh()</button>
-		<button class='btn btn-primary' type="submit" name="cos">Cos()</button>	
-		<button class='btn btn-primary' type="submit" name="cosh">Cosh()</button>
-		<button class='btn btn-primary' type="submit" name="tan">Tan()</button>	
-		<button class='btn btn-primary' type="submit" name="tanh">Tanh()</button>
-		<button class='btn btn-primary' type="submit" name="log">Log()</button>
-		<button class='btn btn-primary' type="submit" name="log10">Log10()</button>
-		<button class='btn btn-primary' type="submit" name="exp">Exp()</button>
-		<button class='btn btn-primary' type="submit" name="pow">Pow()</button>
-		<button class='btn btn-primary' type="submit" name="decbin">Decbin()</button>
-		<button class='btn btn-primary' type="submit" name="dechex">Dechex()</button>
-		<button class='btn btn-primary' type="submit" name="decoct">Decoct()</button>
-		<button class='btn btn-primary' type="submit" name="hexdec">Hexdec()</button>
-		<button class='btn btn-primary' type="submit" name="octdec">Octdec()</button>
+		<button type="submit" name="add">Add</button>
+		<button type="submit" name="sub">Sub</button>
+		<button type="submit" name="mul">Mul</button>
+		<button type="submit" name="div">Div</button>	
+		<button type="submit" name="mod">Mod</button>	
+		<button type="submit" name="square-root">Sqrt()</button>	
+		<button type="submit" name="sin">Sin()</button>	
+		<button type="submit" name="sinh">Sinh()</button>
+		<button type="submit" name="cos">Cos()</button>	
+		<button type="submit" name="cosh">Cosh()</button>
+		<button type="submit" name="tan">Tan()</button>	
+		<button type="submit" name="tanh">Tanh()</button>
+		<button type="submit" name="log">Log()</button>
+		<button type="submit" name="log10">Log10()</button>
+		<button type="submit" name="exp">Exp()</button>
+		<button type="submit" name="pow">Pow()</button>
+		<button type="submit" name="decbin">Decbin()</button>
+		<button type="submit" name="dechex">Dechex()</button>
+		<button type="submit" name="decoct">Decoct()</button>
+		<button type="submit" name="hexdec">Hexdec()</button>
+		<button type="submit" name="octdec">Octdec()</button>
 	</form>
 </div>
 
